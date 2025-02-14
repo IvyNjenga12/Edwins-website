@@ -32,7 +32,7 @@ function Closing() {
         {/* Greeting text */}
         <div className='w-[90%] max-w-[400px]'>
           <p className="z-10 text-white text-center text-xl font-semibold px-4 drop-shadow-lg">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Blanditiis, delectus? Ut delectus voluptatibus consequatur ex.
+          You are my greatest blessing, my answered prayer, and my sweetest love. ❤️ Every moment with you feels like a dream I never want to wake up from. I thank God every day for bringing you into my life, and I can’t wait to spend forever loving you, holding you, and making endless memories together. You are my always and forever. 💕
           </p>
 
         {/* Button */}
